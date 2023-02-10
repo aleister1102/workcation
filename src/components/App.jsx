@@ -1,5 +1,5 @@
-import logo from '/images/logo-brand.svg'
-import heroImage from '/images/beach-work.jpg'
+import logo from '../assets/images/logo-brand.svg'
+import heroImage from '../assets/images/beach-work.jpg'
 import popularDestinations from '../data/popularDestinations.js'
 import DestinationCard from './DestinationCard'
 
